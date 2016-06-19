@@ -15,7 +15,7 @@
     <!-- Permissions for setting images from external storage as wallpaper -->
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <!-- Permissions for reading themes -->
-    <uses-permission android:name="cyanogenmod.permission.READ_THEMES" />
+    <uses-permission android:name="mokee.permission.READ_THEMES" />
 
     <application
         android:label="@string/app_name"

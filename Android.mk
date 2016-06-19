@@ -9,6 +9,8 @@ LOCAL_PACKAGE_NAME := WallpaperPicker
 
 LOCAL_STATIC_JAVA_LIBRARIES := \
     android-support-v4 \
-    org.cyanogenmod.platform.internal
+    org.mokee.platform.internal
+
+LOCAL_AAPT_FLAGS += --rename-manifest-package org.mokee.wallpaperpicker
 
 include $(BUILD_PACKAGE)

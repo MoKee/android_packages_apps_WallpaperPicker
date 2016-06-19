@@ -79,7 +79,7 @@ import com.android.photos.BitmapRegionTileSource;
 import com.android.photos.BitmapRegionTileSource.BitmapSource;
 import com.android.photos.views.TiledImageRenderer.TileSource;
 
-import cyanogenmod.providers.ThemesContract;
+import mokee.providers.ThemesContract;
 
 import org.cyanogenmod.wallpaperpicker.util.Thunk;
 import org.cyanogenmod.wallpaperpicker.util.WallpaperUtils;
