@@ -19,6 +19,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Button label on Wallpaper picker screen; user selects this button to set a specific wallpaper -->
+  <string name="wallpaper_instructions">Hannergrondbild setzen</string>
   <!-- Error message when an image is selected as a wallpaper,
          but the wallpaper picker cannot load it -->
   <!-- Error message when an image is selected as a wallpaper,
@@ -30,10 +31,15 @@
   <!-- Shown when wallpapers are selected in Wallpaper picker -->
   <!-- String indicating how many media item(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d ausgewielt</item>
+    <item quantity="other">%1$d ausgewielt</item>
+  </plurals>
   <!-- Accessibility string used as a label for a particular wallpaper in the Wallpaper Picker list.
          e.g. "Wallpaper 3 of 10" -->
   <!-- Accessibility string used to announce that a wallpaper has been selected. -->
   <!-- Label on button to delete wallpaper(s) -->
+  <string name="wallpaper_delete">Läschen</string>
   <!-- Label on button in Wallpaper Picker to pick an image -->
   <!-- Option in "Select wallpaper from" dialog box -->
   <!-- Title of activity for cropping wallpapers -->
