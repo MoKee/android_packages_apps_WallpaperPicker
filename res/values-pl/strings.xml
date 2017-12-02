@@ -22,6 +22,7 @@
   <string name="wallpaper_instructions">Ustaw tapetę</string>
   <!-- Error message when an image is selected as a wallpaper,
          but the wallpaper picker cannot load it -->
+  <string name="image_load_fail">Nie udało się załadować obrazu</string>
   <!-- Error message when an image is selected as a wallpaper,
          but the wallpaper cropper cannot load it. The user will
          usually see this when using another app and trying to set
@@ -42,6 +43,7 @@
          e.g. "Wallpaper 3 of 10" -->
   <string name="wallpaper_accessibility_name">Tapeta %1$d z %2$d</string>
   <!-- Accessibility string used to announce that a wallpaper has been selected. -->
+  <string name="announce_selection">Wybrano <xliff:g id="label" example="Wallpaper 3 of 10">%1$s</xliff:g></string>
   <!-- Label on button to delete wallpaper(s) -->
   <string name="wallpaper_delete">Usuń</string>
   <!-- Label on button in Wallpaper Picker to pick an image -->
@@ -55,4 +57,5 @@
   <!-- Option for setting the wallpaper only on the lock screen. -->
   <string name="which_wallpaper_option_lock_screen">Ekran blokady</string>
   <!-- Option for setting the wallpaper on both the home screen and lock screen. -->
+  <string name="which_wallpaper_option_home_screen_and_lock_screen">Ekran główny i ekran blokady</string>
 </resources>
