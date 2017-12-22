@@ -22,6 +22,7 @@
   <string name="wallpaper_instructions">Establecer como fondo de pantalla</string>
   <!-- Error message when an image is selected as a wallpaper,
          but the wallpaper picker cannot load it -->
+  <string name="image_load_fail">No se ha podido cargar la imagen</string>
   <!-- Error message when an image is selected as a wallpaper,
          but the wallpaper cropper cannot load it. The user will
          usually see this when using another app and trying to set
