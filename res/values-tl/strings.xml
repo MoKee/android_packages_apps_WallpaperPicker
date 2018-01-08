@@ -50,6 +50,8 @@
   <!-- Title of activity for cropping wallpapers -->
   <string name="crop_wallpaper">I-crop ang wallpaper</string>
   <!-- Option for setting the wallpaper only on the home screen. -->
+  <string name="which_wallpaper_option_home_screen">Home screen</string>
   <!-- Option for setting the wallpaper only on the lock screen. -->
+  <string name="which_wallpaper_option_lock_screen">Lock screen</string>
   <!-- Option for setting the wallpaper on both the home screen and lock screen. -->
 </resources>
