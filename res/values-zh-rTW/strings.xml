@@ -27,7 +27,7 @@
          but the wallpaper cropper cannot load it. The user will
          usually see this when using another app and trying to set
          an image as the wallpaper -->
-  <string name="wallpaper_load_fail">無法載入您要設為桌布的圖片</string>
+  <string name="wallpaper_load_fail">無法載入設為桌布的圖片</string>
   <!-- Error message when an image is selected as a wallpaper,
          but something goes wrong when the user clicks "Set wallpaper" -->
   <string name="wallpaper_set_fail">無法將圖片設為桌布</string>
@@ -41,7 +41,7 @@
          e.g. "Wallpaper 3 of 10" -->
   <string name="wallpaper_accessibility_name">第 %1$d 張桌布，共 %2$d 張</string>
   <!-- Accessibility string used to announce that a wallpaper has been selected. -->
-  <string name="announce_selection">已選取<xliff:g id="LABEL">%1$s</xliff:g></string>
+  <string name="announce_selection">已選取 <xliff:g id="label" example="Wallpaper 3 of 10">%1$s</xliff:g></string>
   <!-- Label on button to delete wallpaper(s) -->
   <string name="wallpaper_delete">刪除</string>
   <!-- Label on button in Wallpaper Picker to pick an image -->
