@@ -22,6 +22,7 @@
   <string name="wallpaper_instructions">Itakda ang wallpaper</string>
   <!-- Error message when an image is selected as a wallpaper,
          but the wallpaper picker cannot load it -->
+  <string name="image_load_fail">Hindi ma-load ang larawan</string>
   <!-- Error message when an image is selected as a wallpaper,
          but the wallpaper cropper cannot load it. The user will
          usually see this when using another app and trying to set
