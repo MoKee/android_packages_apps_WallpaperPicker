@@ -42,6 +42,7 @@
          e.g. "Wallpaper 3 of 10" -->
   <string name="wallpaper_accessibility_name">Wallpaper %1$d ng %2$d</string>
   <!-- Accessibility string used to announce that a wallpaper has been selected. -->
+  <string name="announce_selection">Napiling <xliff:g id="label" example="Wallpaper 3 of 10">%1$s</xliff:g></string>
   <!-- Label on button to delete wallpaper(s) -->
   <string name="wallpaper_delete">Tanggalin</string>
   <!-- Label on button in Wallpaper Picker to pick an image -->
