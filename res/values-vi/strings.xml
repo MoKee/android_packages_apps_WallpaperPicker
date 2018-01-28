@@ -22,6 +22,7 @@
   <string name="wallpaper_instructions">Đặt hình nền</string>
   <!-- Error message when an image is selected as a wallpaper,
          but the wallpaper picker cannot load it -->
+  <string name="image_load_fail">Không thể tải hình ảnh</string>
   <!-- Error message when an image is selected as a wallpaper,
          but the wallpaper cropper cannot load it. The user will
          usually see this when using another app and trying to set
@@ -40,6 +41,7 @@
          e.g. "Wallpaper 3 of 10" -->
   <string name="wallpaper_accessibility_name">Hình nền %1$d / %2$d</string>
   <!-- Accessibility string used to announce that a wallpaper has been selected. -->
+  <string name="announce_selection"><xliff:g id="Label">%1$s</xliff:g> được chọn</string>
   <!-- Label on button to delete wallpaper(s) -->
   <string name="wallpaper_delete">Xóa</string>
   <!-- Label on button in Wallpaper Picker to pick an image -->
