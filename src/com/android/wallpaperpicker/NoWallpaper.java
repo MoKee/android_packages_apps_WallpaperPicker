@@ -22,6 +22,7 @@ import android.app.WallpaperManager;
 import android.content.DialogInterface;
 import android.os.Bundle;
 import android.view.View;
+import android.view.WindowManager;
 import java.io.IOException;
 
 public class NoWallpaper extends Activity {
@@ -29,13 +30,15 @@ public class NoWallpaper extends Activity {
         super.onCreate(bundle);
 
         setContentView(R.layout.wallpaper_preview);
+
+        getWindow().clearFlags(WindowManager.LayoutParams.FLAG_SHOW_WALLPAPER);
     }
 
     public void setWallpaper(View v) {
         WallpaperManager wm = WallpaperManager.getInstance(this);
         new AlertDialog.Builder(this)
             .setTitle(R.string.wallpaper_instructions)
-            .setItems(R.array.which_wallpaper_options, new DialogInterface.OnClickListener() {
+            .setAdapter(new WallpaperListBaseAdapter(this), new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int selectedItemIndex) {
                 int whichWallpaper;
