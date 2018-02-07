@@ -34,6 +34,11 @@
   <!-- Shown when wallpapers are selected in Wallpaper picker -->
   <!-- String indicating how many media item(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d selectată</item>
+    <item quantity="few">%1$d selectate</item>
+    <item quantity="other">%1$d selectate</item>
+  </plurals>
   <!-- Accessibility string used as a label for a particular wallpaper in the Wallpaper Picker list.
          e.g. "Wallpaper 3 of 10" -->
   <string name="wallpaper_accessibility_name">Imaginea de fundal %1$d din %2$d</string>
