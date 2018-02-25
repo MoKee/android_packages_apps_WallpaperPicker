@@ -4,6 +4,7 @@
 /*
 * Copyright (C) 2013 The Android Open Source Project
 * Copyright (C) 2017-2018 The LineageOS Project
+* Copyright (C) 2017-2018 The MoKee Open Source Project
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -19,7 +20,11 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="no_wallpaper">Sin fondo de pantalla</string>
   <!-- Option for setting the wallpaper only on the home screen. -->
+  <string name="which_wallpaper_option_home_screen_cm">Pantalla de inicio</string>
   <!-- Option for setting the wallpaper only on the lock screen. -->
+  <string name="which_wallpaper_option_lock_screen_cm">Bloqueo de pantalla</string>
   <!-- Option for setting the wallpaper on both the home screen and lock screen. -->
+  <string name="which_wallpaper_option_home_screen_and_lock_screen_cm">Pantalla de inicio y pantalla de bloqueo</string>
 </resources>
