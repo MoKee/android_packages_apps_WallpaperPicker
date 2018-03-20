@@ -35,8 +35,8 @@
   <!-- String indicating how many media item(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
-    <item quantity="one">Vybrána: %1$d</item>
-    <item quantity="few">Vybrány: %1$d</item>
+    <item quantity="one">Vybráno: %1$d</item>
+    <item quantity="few">Vybráno: %1$d</item>
     <item quantity="many">Vybráno: %1$d</item>
     <item quantity="other">Vybráno: %1$d</item>
   </plurals>
