@@ -22,5 +22,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Option for setting the wallpaper only on the home screen. -->
   <!-- Option for setting the wallpaper only on the lock screen. -->
+  <string name="which_wallpaper_option_lock_screen_cm">ล็อคหน้าจอ</string>
   <!-- Option for setting the wallpaper on both the home screen and lock screen. -->
 </resources>
