@@ -19,6 +19,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Button label on Wallpaper picker screen; user selects this button to set a specific wallpaper -->
+  <string name="wallpaper_instructions">ಪರದೆ ಚಿತ್ರವನ್ನು ಹೊಂದಿಸಿ</string>
   <!-- Error message when an image is selected as a wallpaper,
          but the wallpaper picker cannot load it -->
   <!-- Error message when an image is selected as a wallpaper,
@@ -37,6 +38,7 @@
   <string name="wallpaper_accessibility_name">%2$d ರಲ್ಲಿ %1$d ವಾಲ್‌ಪೇಪರ್‌</string>
   <!-- Accessibility string used to announce that a wallpaper has been selected. -->
   <!-- Label on button to delete wallpaper(s) -->
+  <string name="wallpaper_delete">ಅಳಿಸು</string>
   <!-- Label on button in Wallpaper Picker to pick an image -->
   <string name="pick_image">ನನ್ನ ಫೋಟೋಗಳು</string>
   <!-- Option in "Select wallpaper from" dialog box -->
