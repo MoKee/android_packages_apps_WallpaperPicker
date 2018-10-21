@@ -21,6 +21,7 @@
   <!-- Button label on Wallpaper picker screen; user selects this button to set a specific wallpaper -->
   <!-- Error message when an image is selected as a wallpaper,
          but the wallpaper picker cannot load it -->
+  <string name="image_load_fail">Methwyd â llwytho\'r ddelwedd</string>
   <!-- Error message when an image is selected as a wallpaper,
          but the wallpaper cropper cannot load it. The user will
          usually see this when using another app and trying to set
@@ -33,6 +34,7 @@
   <!-- Accessibility string used as a label for a particular wallpaper in the Wallpaper Picker list.
          e.g. "Wallpaper 3 of 10" -->
   <!-- Accessibility string used to announce that a wallpaper has been selected. -->
+  <string name="announce_selection">Dewiswyd <xliff:g id="label" example="Wallpaper 3 of 10">%1$s</xliff:g></string>
   <!-- Label on button to delete wallpaper(s) -->
   <!-- Label on button in Wallpaper Picker to pick an image -->
   <!-- Option in "Select wallpaper from" dialog box -->
