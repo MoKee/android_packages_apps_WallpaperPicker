@@ -19,6 +19,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Button label on Wallpaper picker screen; user selects this button to set a specific wallpaper -->
+    <string name="wallpaper_instructions">تام قەغەز تەڭشىكى</string>
     <!-- Error message when an image is selected as a wallpaper,
          but the wallpaper picker cannot load it -->
     <!-- Error message when an image is selected as a wallpaper,
@@ -34,6 +35,7 @@
          e.g. "Wallpaper 3 of 10" -->
     <!-- Accessibility string used to announce that a wallpaper has been selected. -->
     <!-- Label on button to delete wallpaper(s) -->
+    <string name="wallpaper_delete">ئۆچۈر</string>
     <!-- Label on button in Wallpaper Picker to pick an image -->
     <!-- Option in "Select wallpaper from" dialog box -->
     <!-- Title of activity for cropping wallpapers -->
