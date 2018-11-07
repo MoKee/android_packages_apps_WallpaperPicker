@@ -18,39 +18,39 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Button label on Wallpaper picker screen; user selects this button to set a specific wallpaper -->
-  <string name="wallpaper_instructions">הגדר טפט</string>
-  <!-- Error message when an image is selected as a wallpaper,
+    <!-- Button label on Wallpaper picker screen; user selects this button to set a specific wallpaper -->
+    <string name="wallpaper_instructions">הגדר טפט</string>
+    <!-- Error message when an image is selected as a wallpaper,
          but the wallpaper picker cannot load it -->
-  <string name="image_load_fail">לא ניתן היה לטעון את התמונה</string>
-  <!-- Error message when an image is selected as a wallpaper,
+    <string name="image_load_fail">לא ניתן היה לטעון את התמונה</string>
+    <!-- Error message when an image is selected as a wallpaper,
          but the wallpaper cropper cannot load it. The user will
          usually see this when using another app and trying to set
          an image as the wallpaper -->
-  <string name="wallpaper_load_fail">לא ניתן היה לטעון את התמונה כטפט</string>
-  <!-- Error message when an image is selected as a wallpaper,
+    <string name="wallpaper_load_fail">לא ניתן היה לטעון את התמונה כטפט</string>
+    <!-- Error message when an image is selected as a wallpaper,
          but something goes wrong when the user clicks "Set wallpaper" -->
-  <string name="wallpaper_set_fail">לא ניתן היה להגדיר את התמונה כטפט</string>
-  <!-- Shown when wallpapers are selected in Wallpaper picker -->
-  <!-- String indicating how many media item(s) is(are) selected
+    <string name="wallpaper_set_fail">לא ניתן היה להגדיר את התמונה כטפט</string>
+    <!-- Shown when wallpapers are selected in Wallpaper picker -->
+    <!-- String indicating how many media item(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
-  <!-- Accessibility string used as a label for a particular wallpaper in the Wallpaper Picker list.
+    <!-- Accessibility string used as a label for a particular wallpaper in the Wallpaper Picker list.
          e.g. "Wallpaper 3 of 10" -->
-  <string name="wallpaper_accessibility_name">‏טפט %1$d מתוך %2$d</string>
-  <!-- Accessibility string used to announce that a wallpaper has been selected. -->
-  <string name="announce_selection">בחרת <xliff:g id="LABEL">%1$s</xliff:g></string>
-  <!-- Label on button to delete wallpaper(s) -->
-  <string name="wallpaper_delete">מחק</string>
-  <!-- Label on button in Wallpaper Picker to pick an image -->
-  <string name="pick_image">התמונות שלי</string>
-  <!-- Option in "Select wallpaper from" dialog box -->
-  <string name="pick_wallpaper">טפטים</string>
-  <!-- Title of activity for cropping wallpapers -->
-  <string name="crop_wallpaper">חתוך את הטפט</string>
-  <!-- Option for setting the wallpaper only on the home screen. -->
-  <string name="which_wallpaper_option_home_screen">מסך הבית</string>
-  <!-- Option for setting the wallpaper only on the lock screen. -->
-  <string name="which_wallpaper_option_lock_screen">מסך נעילה</string>
-  <!-- Option for setting the wallpaper on both the home screen and lock screen. -->
-  <string name="which_wallpaper_option_home_screen_and_lock_screen">מסכי הבית והנעילה</string>
+    <string name="wallpaper_accessibility_name">‏טפט %1$d מתוך %2$d</string>
+    <!-- Accessibility string used to announce that a wallpaper has been selected. -->
+    <string name="announce_selection">בחרת <xliff:g id="LABEL">%1$s</xliff:g></string>
+    <!-- Label on button to delete wallpaper(s) -->
+    <string name="wallpaper_delete">מחק</string>
+    <!-- Label on button in Wallpaper Picker to pick an image -->
+    <string name="pick_image">התמונות שלי</string>
+    <!-- Option in "Select wallpaper from" dialog box -->
+    <string name="pick_wallpaper">טפטים</string>
+    <!-- Title of activity for cropping wallpapers -->
+    <string name="crop_wallpaper">חתוך את הטפט</string>
+    <!-- Option for setting the wallpaper only on the home screen. -->
+    <string name="which_wallpaper_option_home_screen">מסך הבית</string>
+    <!-- Option for setting the wallpaper only on the lock screen. -->
+    <string name="which_wallpaper_option_lock_screen">מסך נעילה</string>
+    <!-- Option for setting the wallpaper on both the home screen and lock screen. -->
+    <string name="which_wallpaper_option_home_screen_and_lock_screen">מסכי הבית והנעילה</string>
 </resources>
