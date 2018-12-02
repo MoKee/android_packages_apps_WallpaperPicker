@@ -54,6 +54,7 @@
     <!-- Option for setting the wallpaper only on the home screen. -->
     <string name="which_wallpaper_option_home_screen">Ecrã Principal</string>
     <!-- Option for setting the wallpaper only on the lock screen. -->
+    <string name="which_wallpaper_option_lock_screen">Ecrã de Bloqueio</string>
     <!-- Option for setting the wallpaper on both the home screen and lock screen. -->
     <string name="which_wallpaper_option_home_screen_and_lock_screen">Ecrã inicial e ecrã de bloqueio</string>
 </resources>
