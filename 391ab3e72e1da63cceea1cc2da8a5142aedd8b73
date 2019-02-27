@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1551285361 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_packages_apps_WallpaperPicker\nnonce 1551285361-8234C3CE1BFC4D47682352D689B3C9C8EF2C90A7\n\n0000000000000000000000000000000000000000 391ab3e72e1da63cceea1cc2da8a5142aedd8b73 refs/for/mkp\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJcdrxxAAoJEPIi9OYuzSUx1+sIAMAcAjEbMOA6Pb3W3IzTShtx\n8bcNMzvwKSaHrdZRf6qLVaB/fIIjKryVxQG49fowzwL7CVc6giWKX3+zMiBEVjzY\nPfrq4hKAxfUum/zOQ23juMc/a6/c8CPsM/eCQq9pOH7O15PrZn1d3aD88VUU0GgJ\nOqjexp6Ipku/gBeCRmA3tTtz6GU8ohR3QIBrzt4W2P/nXoioI+jCM6AG3KOPZqFH\nOUOWq2odwA47Pr3ssFL7PJfdoKbVxUxXxxm+kOFmSGGP/OT4ZUuE2SO1V1Kag3dl\nPsoO9Ghd30TW3luFr3l62MgRTpAQOmg05vVm/xvcL7LLlz61eIBcoNX8E8H0R5U\u003d\n\u003d2an+\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
