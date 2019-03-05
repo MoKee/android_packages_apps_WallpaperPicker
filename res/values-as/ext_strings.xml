@@ -20,7 +20,8 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Option for setting the wallpaper only on the home screen. -->
-    <!-- Option for setting the wallpaper only on the lock screen. -->
-    <!-- Option for setting the wallpaper on both the home screen and lock screen. -->
+    <string name="no_wallpaper">কোনো ৱালপেপাৰ নাই</string>
+    <string name="which_wallpaper_option_home_screen_cm">গৃহ স্ক্ৰীন</string>
+    <string name="which_wallpaper_option_lock_screen_cm">লক স্ক্ৰীন</string>
+    <string name="which_wallpaper_option_home_screen_and_lock_screen_cm">গৃহ স্ক্ৰীন আৰু লক স্ক্ৰীন</string>
 </resources>
