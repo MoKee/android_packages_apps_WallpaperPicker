@@ -19,17 +19,20 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="wallpaper_instructions">Establecer fondo de pantalla</string>
-    <string name="image_load_fail">Non se puido cargar a imaxe</string>
-    <string name="wallpaper_load_fail">Non se puido cargar a imaxe como fondo de pantalla</string>
-    <string name="wallpaper_set_fail">Non se puido definir a imaxe como fondo de pantalla</string>
+    <string name="image_load_fail">No se ha podido cargar la imagen</string>
+    <string name="wallpaper_load_fail">No se ha podido cargar la imagen como fondo de pantalla</string>
+    <string name="wallpaper_set_fail">No se ha podido establecer la imagen como fondo de pantalla</string>
     <plurals name="number_of_items_selected">
-        <item quantity="one">Seleccionaches %1$d</item>
-        <item quantity="other">Seleccionaches %1$d</item>
+        <item quantity="one">%1$d seleccionados</item>
+        <item quantity="other">%1$d seleccionados</item>
     </plurals>
     <string name="wallpaper_accessibility_name">Fondo de pantalla %1$d de %2$d</string>
-    <string name="announce_selection">Seleccionaches <xliff:g id="LABEL">%1$s</xliff:g></string>
-    <string name="wallpaper_delete">Eliminar</string>
-    <string name="pick_image">As miñas fotos</string>
+    <string name="announce_selection"><xliff:g id="LABEL">%1$s</xliff:g> seleccionado</string>
+    <string name="wallpaper_delete">Borrar</string>
+    <string name="pick_image">Mis fotos</string>
     <string name="pick_wallpaper">Fondos de pantalla</string>
     <string name="crop_wallpaper">Recortar fondo de pantalla</string>
+    <string name="which_wallpaper_option_home_screen">Pantalla de inicio</string>
+    <string name="which_wallpaper_option_lock_screen">Bloqueo de pantalla</string>
+    <string name="which_wallpaper_option_home_screen_and_lock_screen">Pantalla de inicio y pantalla de bloqueo</string>
 </resources>

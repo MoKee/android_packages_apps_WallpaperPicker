@@ -18,42 +18,20 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Button label on Wallpaper picker screen; user selects this button to set a specific wallpaper -->
     <string name="wallpaper_instructions">ওয়ালপেপার সেট করুন</string>
-    <!-- Error message when an image is selected as a wallpaper,
-         but the wallpaper picker cannot load it -->
     <string name="image_load_fail">চিত্র লোড করা যায়নি</string>
-    <!-- Error message when an image is selected as a wallpaper,
-         but the wallpaper cropper cannot load it. The user will
-         usually see this when using another app and trying to set
-         an image as the wallpaper -->
     <string name="wallpaper_load_fail">ওয়ালপেপার হিসাবে চিত্র লোড করা যায়নি</string>
-    <!-- Error message when an image is selected as a wallpaper,
-         but something goes wrong when the user clicks "Set wallpaper" -->
     <string name="wallpaper_set_fail">ওয়ালপেপার হিসাবে চিত্র সেট করা যায়নি</string>
-    <!-- Shown when wallpapers are selected in Wallpaper picker -->
-    <!-- String indicating how many media item(s) is(are) selected
-            eg. 1 selected [CHAR LIMIT=30] -->
     <plurals name="number_of_items_selected">
         <item quantity="one">%1$dটি নির্বাচন করা হয়েছে</item>
         <item quantity="other">%1$dটি নির্বাচন করা হয়েছে</item>
     </plurals>
-    <!-- Accessibility string used as a label for a particular wallpaper in the Wallpaper Picker list.
-         e.g. "Wallpaper 3 of 10" -->
     <string name="wallpaper_accessibility_name">%2$dটির মধ্যে %1$dটি ওয়ালপেপার</string>
-    <!-- Accessibility string used to announce that a wallpaper has been selected. -->
     <string name="announce_selection"><xliff:g id="LABEL">%1$s</xliff:g> নির্বাচন করা হয়েছে</string>
-    <!-- Label on button to delete wallpaper(s) -->
     <string name="wallpaper_delete">মুছুন</string>
-    <!-- Label on button in Wallpaper Picker to pick an image -->
     <string name="pick_image">আমার ফটো</string>
-    <!-- Option in "Select wallpaper from" dialog box -->
     <string name="pick_wallpaper">ওয়ালপেপারগুলি</string>
-    <!-- Title of activity for cropping wallpapers -->
     <string name="crop_wallpaper">ওয়ালপেপার কাটছাঁট করুন</string>
-    <!-- Option for setting the wallpaper only on the home screen. -->
     <string name="which_wallpaper_option_home_screen">Home screen</string>
-    <!-- Option for setting the wallpaper only on the lock screen. -->
     <string name="which_wallpaper_option_lock_screen">Lock screen</string>
-    <!-- Option for setting the wallpaper on both the home screen and lock screen. -->
 </resources>

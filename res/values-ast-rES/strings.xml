@@ -18,7 +18,6 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="wallpaper_instructions">Afitar fondu de pantalla</string>
     <string name="image_load_fail">Nun pudo cargase la imaxe</string>
     <string name="wallpaper_load_fail">Nun pudo cargase la imaxe como fondu de pantalla</string>
     <string name="wallpaper_set_fail">Nun pudo afitase la imaxe como fondu de pantalla</string>
@@ -26,12 +25,9 @@
         <item quantity="one">%1$d esbilláu</item>
         <item quantity="other">%1$d esbillaos</item>
     </plurals>
-    <string name="wallpaper_accessibility_name">Fondu de pantalla %1$d de %2$d</string>
-    <string name="announce_selection">Esbillaos <xliff:g id="label" example="Wallpaper 3 of 10">%1$s</xliff:g></string>
     <string name="wallpaper_delete">Desaniciar</string>
     <string name="pick_image">Les mios semeyes</string>
     <string name="pick_wallpaper">Fondos de pantalla</string>
-    <string name="crop_wallpaper">Recortar fondu de pantalla</string>
     <string name="which_wallpaper_option_home_screen">Pantalla d\'aniciu</string>
     <string name="which_wallpaper_option_lock_screen">Pantalla de bloquéu</string>
     <string name="which_wallpaper_option_home_screen_and_lock_screen">Pantalles d\'aniciu y bloquéu</string>

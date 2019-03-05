@@ -18,17 +18,17 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="wallpaper_instructions">Itakda ang wallpaper</string>
-    <string name="image_load_fail">Hindi ma-load ang larawan</string>
-    <string name="wallpaper_load_fail">Hindi ma-load ang larawan bilang wallpaper</string>
-    <string name="wallpaper_set_fail">Hindi maitakda ang larawan bilang wallpaper</string>
+    <string name="wallpaper_instructions">I-set ang wallpaper</string>
+    <string name="image_load_fail">Hindi mai-load ang imahe</string>
+    <string name="wallpaper_load_fail">Hindi mai-load ang imahe ng wallpaper</string>
+    <string name="wallpaper_set_fail">Hindi maitakda ang imahe sa wallpaper</string>
     <plurals name="number_of_items_selected">
-        <item quantity="one">%1$d ang napili</item>
-        <item quantity="other">%1$d ang napili</item>
+        <item quantity="one">%1$d ay napili</item>
+        <item quantity="other">%1$d ay napili</item>
     </plurals>
     <string name="wallpaper_accessibility_name">Wallpaper %1$d ng %2$d</string>
-    <string name="announce_selection">Napili ang <xliff:g id="LABEL">%1$s</xliff:g></string>
-    <string name="wallpaper_delete">Tanggalin</string>
+    <string name="announce_selection">Napiling <xliff:g id="label" example="Wallpaper 3 of 10">%1$s</xliff:g></string>
+    <string name="wallpaper_delete">Burahin</string>
     <string name="pick_image">Aking mga larawan</string>
     <string name="pick_wallpaper">Mga Wallpaper</string>
     <string name="crop_wallpaper">I-crop ang wallpaper</string>

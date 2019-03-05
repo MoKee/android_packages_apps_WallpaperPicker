@@ -3,8 +3,6 @@
 <!--
 /*
 * Copyright (C) 2013 The Android Open Source Project
-* Copyright (C) 2017-2018 The LineageOS Project
-* Copyright (C) 2017-2018 The MoKee Open Source Project
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -20,7 +18,8 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Option for setting the wallpaper only on the home screen. -->
-    <!-- Option for setting the wallpaper only on the lock screen. -->
-    <!-- Option for setting the wallpaper on both the home screen and lock screen. -->
+    <plurals name="number_of_items_selected">
+        <item quantity="one">%1$d ଚୟନିତ ହୋଇଛି</item>
+        <item quantity="other">%1$d ଚୟନିତ ହୋଇଛି</item>
+    </plurals>
 </resources>
