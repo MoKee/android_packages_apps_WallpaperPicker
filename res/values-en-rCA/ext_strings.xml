@@ -3,7 +3,6 @@
 <!--
 /*
 * Copyright (C) 2013 The Android Open Source Project
-* Copyright (C) 2017-2019 The MoKee Open Source Project
 * Copyright (C) 2017-2018 The LineageOS Project
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
@@ -20,5 +19,8 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="which_wallpaper_option_lock_screen_cm">ล็อคหน้าจอ</string>
+    <string name="no_wallpaper">No wallpaper</string>
+    <string name="which_wallpaper_option_home_screen_cm">Home screen</string>
+    <string name="which_wallpaper_option_lock_screen_cm">Lock screen</string>
+    <string name="which_wallpaper_option_home_screen_and_lock_screen_cm">Home screen and lock screen</string>
 </resources>
