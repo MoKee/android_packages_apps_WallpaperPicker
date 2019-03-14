@@ -20,6 +20,5 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="which_wallpaper_option_home_screen_cm">ಮುಖ್ಯ ಪರದೆ</string>
-    <string name="which_wallpaper_option_lock_screen_cm">ಪರದೆ ಲಾಕ್ ಮಾಡಿ</string>
+    <string name="which_wallpaper_option_lock_screen_cm">ล็อคหน้าจอ</string>
 </resources>
