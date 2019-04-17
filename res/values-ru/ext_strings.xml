@@ -23,5 +23,5 @@
     <string name="no_wallpaper">Нет обоев</string>
     <string name="which_wallpaper_option_home_screen_cm">Домашний экран</string>
     <string name="which_wallpaper_option_lock_screen_cm">Экран блокировки</string>
-    <string name="which_wallpaper_option_home_screen_and_lock_screen_cm">Домашний экран и экран блокировки</string>
+    <string name="which_wallpaper_option_home_screen_and_lock_screen_cm">Главный экран и экран блокировки</string>
 </resources>
