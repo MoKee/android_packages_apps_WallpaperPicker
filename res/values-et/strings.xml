@@ -33,4 +33,6 @@
     <string name="pick_wallpaper">Taustapildid</string>
     <string name="crop_wallpaper">Taustapildi kärpimine</string>
     <string name="which_wallpaper_option_home_screen">Avakuva</string>
+    <string name="which_wallpaper_option_lock_screen">Lukustusekraan</string>
+    <string name="which_wallpaper_option_home_screen_and_lock_screen">Avaekraan ja lukustuskuva</string>
 </resources>
