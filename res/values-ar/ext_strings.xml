@@ -22,6 +22,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="no_wallpaper">لا خلفية للشاشة</string>
     <string name="which_wallpaper_option_home_screen_cm">الشاشة الرئيسية</string>
-    <string name="which_wallpaper_option_lock_screen_cm">قفل الشاشة</string>
-    <string name="which_wallpaper_option_home_screen_and_lock_screen_cm">الشاشة الرئيسية وقفل الشاشة</string>
+    <string name="which_wallpaper_option_lock_screen_cm">شاشة القفل</string>
+    <string name="which_wallpaper_option_home_screen_and_lock_screen_cm">الشاشة الرئيسية وشاشة القفل</string>
 </resources>
