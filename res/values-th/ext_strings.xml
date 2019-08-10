@@ -4,6 +4,7 @@
 /*
 * Copyright (C) 2013 The Android Open Source Project
 * Copyright (C) 2017-2018 The LineageOS Project
+* Copyright (C) 2017-2018 The MoKee Open Source Project
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -19,8 +20,5 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="no_wallpaper">ไม่มีภาพพื้นหลัง</string>
-    <string name="which_wallpaper_option_home_screen_cm">หน้าจอหลัก</string>
-    <string name="which_wallpaper_option_lock_screen_cm">หน้าจอล็อค</string>
-    <string name="which_wallpaper_option_home_screen_and_lock_screen_cm">หน้าจอหลักและหน้าจอล็อก</string>
+    <string name="which_wallpaper_option_lock_screen_cm">ล็อคหน้าจอ</string>
 </resources>
