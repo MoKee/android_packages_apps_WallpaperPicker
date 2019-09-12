@@ -33,5 +33,7 @@
     <string name="pick_image">Моје фотографије</string>
     <string name="pick_wallpaper">Позадине</string>
     <string name="crop_wallpaper">Опсеци позадину</string>
+    <string name="which_wallpaper_option_home_screen">Главни екран</string>
+    <string name="which_wallpaper_option_lock_screen">Закључан екран</string>
     <string name="which_wallpaper_option_home_screen_and_lock_screen">Почетни екран и Закључан екран</string>
 </resources>
